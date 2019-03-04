@@ -7,6 +7,7 @@ public class Customer {
 		HdfcBank hdfc=new HdfcBank();
 			
 			hdfc.deposite(10000);
+			System.out.println("Hi git");
 	}
 
 }
