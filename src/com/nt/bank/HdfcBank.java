@@ -15,4 +15,8 @@ public class HdfcBank {
 		bal=bal-amt;
 		return bal;
 	}
+	
+	public double getBal(int pin){
+		return bal;
+	}
 }
