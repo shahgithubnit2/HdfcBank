@@ -1,3 +1,5 @@
+
+
 package com.nt.bank;
 
 public class Customer {
@@ -7,8 +9,8 @@ public class Customer {
 		HdfcBank hdfc=new HdfcBank();
 			
 			hdfc.deposite(10000);
-			hdfc.withDraw(1000);
-			System.out.println("Hi git");
+			hdfc.deposite(7900);
 	}
-
 }
+
+
