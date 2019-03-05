@@ -15,6 +15,8 @@ public static void main(String[] args) {
 	  hdfc.deposite(10000);
 			
 	  hdfc.deposite(7900);
+	  
+	  hdfc.withDraw(7900);
 	}
 }
 
