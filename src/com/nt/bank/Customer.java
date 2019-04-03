@@ -12,11 +12,11 @@ public static void main(String[] args) {
 	HdfcBank hdfc=new HdfcBank();
 			
 		
-	  hdfc.deposite(10000);
+	  hdfc.deposite(1000);
 			
-	  hdfc.deposite(7900);
+	//  hdfc.deposite(7900);
 	  
-	  hdfc.withDraw(7900);
+	//  hdfc.withDraw(7900);
 	}
 }
 
